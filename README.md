@@ -1,2 +1,0 @@
-# AISA
-AI Safety Arc
