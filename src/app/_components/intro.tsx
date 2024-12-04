@@ -11,4 +11,4 @@ export function Intro() {
       </h4>
     </section>
   );
-}.
+};
